@@ -18,6 +18,8 @@
 
 ![Lelin07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelin07&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zdit2y57vwe72faiqiunoh6hgm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zdit2y57vwe72faiqiunoh6hgm&redirect=true)
+
 ###
 
 <h2 align="left">I code with</h2>
